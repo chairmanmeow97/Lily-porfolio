@@ -1,5 +1,3 @@
-# Lily-porfolio
-Business/Data analysis
 # Ly Minh Chau Tran (Lily) - Business/Data Analyst Portfolio
 ## About
 Hi, I’m Lily! I am transitioning from a healthcare background in Pharmacy into the field of Business Analytics, where I am currently completing my Master’s degree in Business Analytics & Management at the University of Dundee. My career journey began with four years of hands-on experience in pharmaceutical operations and tender management, where I learned how data-driven processes shape critical business decisions.
