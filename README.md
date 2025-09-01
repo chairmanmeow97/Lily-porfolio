@@ -8,7 +8,7 @@ Moreover, through a three-month internship with Moovbuddy, I deepened my experti
 
 This experience not only sharpened my technical skills in data analysis and visualization but also gave me practical exposure to how product and marketing teams use insights to optimize customer journeys, improve retention, and increase monetization. By translating complex datasets into clear, actionable insights, I contributed to aligning business strategy with data-driven evidence. Most importantly, this internship allowed me to bridge the gap between theory and practice—demonstrating how analytical tools can directly influence growth, user engagement, and long-term business outcomes.
 
-Finally, aving worked in hihghly regulated industries and interdisciplinary environments, where I combine technical expertise with clear communication and a proactive mindset, I bring attention to detail, compliance awareness, and the ability to adapt quickly to new business cultures and standards.
+Finally, having worked in hihghly regulated industries and interdisciplinary environments, where I combine technical expertise with clear communication and a proactive mindset, I bring attention to detail, compliance awareness, and the ability to adapt quickly to new business cultures and standards.
 
 This repository serves as a space to showcase my projects, track my progress, and demonstrate how I apply data analytics techniques to real-world business problems.
 
