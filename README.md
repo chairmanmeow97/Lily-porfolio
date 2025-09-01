@@ -13,11 +13,11 @@ This repository serves as a space to showcase my projects, track my progress, an
 My CV in [pdf](https://github.com/chairmanmeow97/Lily-porfolio/blob/main/Resume%20-%20Ly%20Minh%20Chau%20Tran.pdf).
 
 ## Table of Contents: 
-#- Portfolio Projects of Monetization Analysis
-  #**- Conversion Funnel: Checkout → PaymentSuccess → Renewals (SubscriptionRetention)**
+- Portfolio Projects of Monetization Analysis
+  **- Conversion Funnel: Checkout → PaymentSuccess → Renewals (SubscriptionRetention)**
 
-  #**- Analyzing Revenue trends:** https://app.amplitude.com/analytics/moovbuddy/dashboard/5vymzvgl?source=copy+url
-  #+Kegelmen Web: Product Revenue Performance Analysis Report: https://app.amplitude.com/analytics/moovbuddy/dashboard/sg7o6ax2?source=copy+url
+  **- Analyzing Revenue trends:** https://app.amplitude.com/analytics/moovbuddy/dashboard/5vymzvgl?source=copy+url
+  -Kegelmen Web: Product Revenue Performance Analysis Report: https://app.amplitude.com/analytics/moovbuddy/dashboard/sg7o6ax2?source=copy+url
 >Findings: The 6-month product achieved an 18% quarter-over-quarter revenue increase, directly validated by the "Revenue per product (quarterly)" chart showing current quarter revenue at $111,503.80 versus previous quarter's $94,504.43. The same chart confirms reported revenue declines for 1-month (26% decrease to $36,653.96) and 3-month products (11% decrease to $29,080.93), with the 6-month product effectively offsetting these losses
 
 >Key Inflection Points:
@@ -27,9 +27,9 @@ My CV in [pdf](https://github.com/chairmanmeow97/Lily-porfolio/blob/main/Resume%
 
 
 -**Analyzing RPD/ARPU**:
-#+https://app.amplitude.com/analytics/moovbuddy/dashboard/p3lltpyc?source=copy+url
-#+https://app.amplitude.com/analytics/moovbuddy/dashboard/mhoiiuch?source=copy+url
-#+https://app.amplitude.com/analytics/moovbuddy/dashboard/9x01qf31?source=copy+url/
+-https://app.amplitude.com/analytics/moovbuddy/dashboard/p3lltpyc?source=copy+url
+-https://app.amplitude.com/analytics/moovbuddy/dashboard/mhoiiuch?source=copy+url
+-https://app.amplitude.com/analytics/moovbuddy/dashboard/9x01qf31?source=copy+url/
 >Findings:  T1 Countries + USA &  iOS platform with Annual Plans (either 12.months.kegel.60 or 12.months.kegel.30) are doing well. 6-month subscription although brings good revenue but it also comes with high number of active users, so is LATAM countries.
 
 ## Contacts
