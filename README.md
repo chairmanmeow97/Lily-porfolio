@@ -2,7 +2,9 @@
 ## About
 Hi, I’m Lily! I am transitioning from a healthcare background in Pharmacy into the field of Business Analytics, where I am currently completing my Master’s degree in Business Analytics & Management at the University of Dundee. My career journey began with four years of hands-on experience in pharmaceutical operations and tender management, where I learned how data-driven processes shape critical business decisions.
 
-Through my studies and professional experience, I have developed strong analytical, problem-solving, and stakeholder management skills. I am also good in tools such as Excel, Amplitude, which I use to transform raw data into actionable insights. What excites me most is applying these skills to improve decision-making, optimise processes, and drive business growth.
+Most recently, I completed a three-month internship with Moovbuddy, where I focused on dashboard creation, data visualization, and chart development to support business performance analysis. During this time, I deepened my expertise in Amplitude—leveraging behavioral analytics to track user journeys, identify drop-off points, and evaluate product performance. This hands-on experience allowed me to connect technical skills with real-world business outcomes, further strengthening my ability to turn data into actionable insights.
+
+Through both my studies and professional experience, I have developed strong analytical, problem-solving, and stakeholder management skills. I am proficient in tools such as Excel, Amplitude, which I use to transform raw data into meaningful insights that guide decision-making, optimise processes, and drive business growth.
 
 I thrive in interdisciplinary environments, where I combine technical expertise with clear communication and a proactive mindset. Having worked in highly regulated industries, I bring attention to detail, compliance awareness, and the ability to adapt quickly to new business cultures and standards.
 
