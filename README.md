@@ -16,13 +16,7 @@ My CV in [pdf](https://github.com/chairmanmeow97/Lily-porfolio/blob/main/Resume%
 
 ## Table of Contents: 
 - Portfolio Projects of Monetization Analysis
-  
-  -Conversion Funnel: Checkout → PaymentSuccess → Renewals (SubscriptionRetention)
-
-  -Analyzing Revenue trends: https://app.amplitude.com/analytics/moovbuddy/dashboard/5vymzvgl?source=copy+url
-
-  -Kegelmen Web: Product Revenue Performance Analysis Report: https://app.amplitude.com/analytics/moovbuddy/dashboard/sg7o6ax2?source=copy+url
-  
+ 
 >Findings: The 6-month product achieved an 18% quarter-over-quarter revenue increase, directly validated by the "Revenue per product (quarterly)" chart showing current quarter revenue at $111,503.80 versus previous quarter's $94,504.43. The same chart confirms reported revenue declines for 1-month (26% decrease to $36,653.96) and 3-month products (11% decrease to $29,080.93), with the 6-month product effectively offsetting these losses
 
 >Key Inflection Points:
