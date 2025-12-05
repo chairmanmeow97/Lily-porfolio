@@ -36,9 +36,6 @@ My CV in [pdf](https://github.com/chairmanmeow97/Lily-porfolio/blob/main/Resume%
 
 -**Analyzing RPD/ARPU**:
 
-https://app.amplitude.com/analytics/moovbuddy/dashboard/p3lltpyc?source=copy+url
-https://app.amplitude.com/analytics/moovbuddy/dashboard/mhoiiuch?source=copy+url
-https://app.amplitude.com/analytics/moovbuddy/dashboard/9x01qf31?source=copy+url
 >Findings:  T1 Countries + USA &  iOS platform with Annual Plans (either 12.months.kegel.60 or 12.months.kegel.30) are doing well. 6-month subscription although brings good revenue but it also comes with high number of active users, so is LATAM countries.
 
 ## Contacts
