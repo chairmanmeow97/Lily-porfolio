@@ -16,21 +16,7 @@ My CV in [pdf](https://github.com/chairmanmeow97/Lily-porfolio/blob/main/Resume%
 
 ## Table of Contents: 
 - Portfolio Projects of Monetization Analysis
- 
->Findings: The 6-month product achieved an 18% quarter-over-quarter revenue increase, directly validated by the "Revenue per product (quarterly)" chart showing current quarter revenue at $111,503.80 versus previous quarter's $94,504.43. The same chart confirms reported revenue declines for 1-month (26% decrease to $36,653.96) and 3-month products (11% decrease to $29,080.93), with the 6-month product effectively offsetting these losses
-
->Key Inflection Points:
->
->-April 14, 2025 – 6-Month Product: The 6-month product growth (monthly) chart shows flat performance from January through March, followed by sharp acceleration beginning April 14 and peaking in July for both current and prior year campaigns.
->
->-April 25, 2025 – 3-Month Product: The 3-month product growth (monthly) chart highlights a similar trend, with growth taking off from April 25 after a stagnant Q1, also leading to a July peak across campaigns.
->
->-May 25, 2025 – 1-Month Product: The 1-month product growth (monthly) chart indicates flat performance through May, before rapid acceleration starting May 25 and sustaining momentum into July, consistent across both current and previous year campaigns.
-
-
--**Analyzing RPD/ARPU**:
-
->Findings:  T1 Countries + USA &  iOS platform with Annual Plans (either 12.months.kegel.60 or 12.months.kegel.30) are doing well. 6-month subscription although brings good revenue but it also comes with high number of active users, so is LATAM countries.
+ []
 
 ## Contacts
 - LinkedIn: [@Lilytran](https://www.linkedin.com/in/ly-minh-chau-tran/)
