@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am ✨ **Ly Minh Chau Tran (Lily)** ✨, a Pharmacy graduate transitioning into the field of **Business & Data Analytics**. I recently completed my Master's in Business Analytics & Management at the **University of Dundee, Scotland**. My journey began with over four years in the pharmaceutical sector, where I developed a strong foundation in strategic data synthesis and tender management for global clients like **GSK** and **Johnson & Johnson**.
+I am ✨ **Lily** ✨, a Pharmacy graduate transitioning into the field of **Business & Data Analytics**. I recently completed my Master's in Business Analytics & Management at the **University of Dundee, Scotland**. My journey began with over four years in the pharmaceutical sector, where I developed a strong foundation in strategic data synthesis and tender management for global clients like **GSK** and **Johnson & Johnson**.
 
 With hands-on experience at companies like **DKSH** and **MoovBuddy**, I have honed my abilities in optimizing data workflows and translating complex clinical data into actionable market insights. I am passionate about bridging the gap between healthcare expertise and data-driven decision-making to support innovative medicine development and market access strategy.
 
@@ -36,4 +36,4 @@ With hands-on experience at companies like **DKSH** and **MoovBuddy**, I have ho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lyminhchautran-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ly-minh-chau-tran)
 [![Gmail](https://img.shields.io/badge/Gmail-tranlyminhchau97-D14836?style=flat-square&logo=gmail)](mailto:tranlyminhchau97@gmail.com)
 
-❤️ By [Ly Minh Chau Tran](https://www.linkedin.com/in/ly-minh-chau-tran)
+❤️ By [Lily Tran](https://www.linkedin.com/in/ly-minh-chau-tran)
