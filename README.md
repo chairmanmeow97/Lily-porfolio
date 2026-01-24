@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=ly-minh-chau-tran&color=yellowgreen&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2ff3520cfc.gif" width="280" align="right">
 
 ## 🚀 About Me
 
