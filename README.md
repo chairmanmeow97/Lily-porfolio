@@ -37,3 +37,4 @@ With hands-on experience at companies like **DKSH**, and **MoovBuddy**, I have h
 [![Gmail](https://img.shields.io/badge/Gmail-tranlyminhchau97-D14836?style=flat-square&logo=gmail)](mailto:tranlyminhchau97@gmail.com)
 
 ❤️ By [Ly Minh Chau Tran](https://www.linkedin.com/in/ly-minh-chau-tran)
+<img src="https://lottie.host/253ccb1e-74da-4a94-aaa1-0f2df7e1c746/zGb9ZlLqAf.lottie" width="300" align="right">
