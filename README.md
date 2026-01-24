@@ -1,23 +1,39 @@
-# Ly Minh Chau Tran (Lily) - Business/Data Analyst Portfolio
-## About
-Hi, I’m Lily! I am transitioning from a healthcare background in Pharmacy into the field of Business Analytics, where I am currently completing my Master’s degree in Business Analytics & Management at the University of Dundee. My career journey began with four years of hands-on experience in pharmaceutical operations and tender management, where I learned how data-driven processes shape critical business decisions.
+# Hi, there! It's Lily's corner, welcomee 👋
 
-Through both my studies and professional experience, I have developed strong analytical, problem-solving, and stakeholder management skills. I am proficient in Excel which I use to transform raw data into meaningful insights that guide decision-making, optimise processes, and drive business growth.
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ly-minh-chau-tran&color=yellowgreen&style=flat-square" alt="Profile views" />
+</p>
 
-Moreover, through a three-month internship with Moovbuddy, I deepened my expertise in Amplitude by applying behavioral analytics to real business challenges. My work primarily focused on dashboard creation, data visualization, and chart development to support performance monitoring and decision-making. Specifically, I designed dashboards to track conversion rates across different subscription models, identify user drop-off points along the onboarding and purchase funnels, and evaluate product performance and revenue trends over time.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d2ff3520cfc.gif" width="280" align="right">
 
-This experience not only sharpened my technical skills in data analysis and visualization but also gave me practical exposure to how product and marketing teams use insights to optimize customer journeys, improve retention, and increase monetization. By translating complex datasets into clear, actionable insights, I contributed to aligning business strategy with data-driven evidence. Most importantly, this internship allowed me to bridge the gap between theory and practice—demonstrating how analytical tools can directly influence growth, user engagement, and long-term business outcomes.
+## 🚀 About Me
 
-Finally, having worked in hihghly regulated industries and interdisciplinary environments, where I combine technical expertise with clear communication and a proactive mindset, I bring attention to detail, compliance awareness, and the ability to adapt quickly to new business cultures and standards.
+I am ✨ **Ly Minh Chau Tran (Lily)** ✨, a Pharmacy graduate transitioning into the field of **Business & Data Analytics**. I recently completed my Master's in Business Analytics & Management at the **University of Dundee, Scotland**. My journey began with over four years in the pharmaceutical sector, where I developed a strong foundation in strategic data synthesis and tender management for global clients like **GSK** and **Johnson & Johnson**.
 
-This repository serves as a space to showcase my projects, track my progress, and demonstrate how I apply data analytics techniques to real-world business problems.
+With hands-on experience at companies like **DKSH**, **Gigamed**, and **MoovBuddy**, I have honed my abilities in optimizing data workflows and translating complex clinical data into actionable market insights. I am passionate about bridging the gap between healthcare expertise and data-driven decision-making to support innovative medicine development and market access strategy.
 
-My CV in [pdf](https://github.com/chairmanmeow97/Lily-porfolio/blob/main/Resume%20-%20Ly%20Minh%20Chau%20Tran.pdf).
+## 🔭 My Interests
 
-## Table of Contents: 
-- Portfolio Projects of Monetization Analysis
- []
+* **Healthcare Analytics:** Applying data analysis to improve patient outcomes and pharmaceutical operations.
+* **Business Intelligence:** Creating impactful visual stories to guide executive decision-making.
+* **Product Analytics:** Analyzing user behavior to optimize sale performance.
+* **Strategic Management:** Leveraging data to drive market expansion and contract win rates (Bid/Tender).
 
-## Contacts
-- LinkedIn: [@Lilytran](https://www.linkedin.com/in/ly-minh-chau-tran/)
-- Email: tranlyminhchau97@gmail.com
+---
+
+## 🛠 Skills
+
+* **Programming & Databases:** SQL, MongoDB, R, Python
+* **Data Visualization/BI:** PowerBI, Amplitude, Excel
+* **Data Analysis:** Predictive & Prescriptive Analytics
+* **Industry Knowledge:** Pharmaceutical Tender Management, Business/Data analysis (Healthcare/Pharmaceutical/Biotech)
+* **Tools:** SAP, Microsoft Office Suite, Git
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lyminhchautran-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ly-minh-chau-tran)
+[![Gmail](https://img.shields.io/badge/Gmail-tranlyminhchau97-D14836?style=flat-square&logo=gmail)](mailto:tranlyminhchau97@gmail.com)
+
+❤️ By [Ly Minh Chau Tran](https://www.linkedin.com/in/ly-minh-chau-tran)
