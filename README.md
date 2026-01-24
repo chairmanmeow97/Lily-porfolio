@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=chairmanmeow97&color=yellowgreen&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueHByZ2p6Y3p5YjBqZzR4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/LmN8OYiYUIJC7QN6CP/giphy.gif" width="300" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mzd0dm00b2pueHprYW1qZDRwMXYybDN3MnJwbmRxaTlzM3p2ZmRmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="300" align="right">
 
 ## 🚀 About Me
 
 I am ✨ **Ly Minh Chau Tran (Lily)** ✨, a Pharmacy graduate transitioning into the field of **Business & Data Analytics**. I recently completed my Master's in Business Analytics & Management at the **University of Dundee, Scotland**. My journey began with over four years in the pharmaceutical sector, where I developed a strong foundation in strategic data synthesis and tender management for global clients like **GSK** and **Johnson & Johnson**.
 
-With hands-on experience at companies like **DKSH**, **Gigamed**, and **MoovBuddy**, I have honed my abilities in optimizing data workflows and translating complex clinical data into actionable market insights. I am passionate about bridging the gap between healthcare expertise and data-driven decision-making to support innovative medicine development and market access strategy.
+With hands-on experience at companies like **DKSH** and **MoovBuddy**, I have honed my abilities in optimizing data workflows and translating complex clinical data into actionable market insights. I am passionate about bridging the gap between healthcare expertise and data-driven decision-making to support innovative medicine development and market access strategy.
 
 ## 🔭 My Interests
 
@@ -23,10 +23,10 @@ With hands-on experience at companies like **DKSH**, **Gigamed**, and **MoovBudd
 
 ## 🛠 Skills
 
-* **Programming & Databases:** SQL (MySQL), MongoDB, R, Python
-* **Data Visualization/BI:** PowerBI, Amplitude, Excel (Pivot Tables, VLOOKUP)
+* **Programming & Databases:** SQL, MongoDB, R, Python
+* **Data Visualization/BI:** PowerBI, Amplitude, Excel
 * **Data Analysis:** Predictive & Prescriptive Analytics
-* **Industry Knowledge:** Pharmaceutical Tender Management, Compliance, Market Strategy
+* **Industry Knowledge:** Pharmaceutical Tender Management, Business/Data analysis (Healthcare/Pharmaceutical/Biotech)
 * **Tools:** SAP, Microsoft Office Suite, Git
 
 ---
