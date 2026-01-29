@@ -23,7 +23,7 @@ With hands-on experience at companies like **DKSH** and **MoovBuddy**, I have ho
 
 ## 🛠 Skills
 
-* **Programming & Databases:** SQL, MongoDB, R, Python
+* **Programming & Databases:** SQL, MongoDB, R, Python, JSON
 * **Data Visualization/BI:** PowerBI, Amplitude, Excel
 * **Data Analysis:** Predictive & Prescriptive Analytics
 * **Industry Knowledge:** Pharmaceutical Tender Management, Business/Data analysis (Healthcare/Pharmaceutical/Biotech)
